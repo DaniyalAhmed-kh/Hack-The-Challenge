@@ -81,8 +81,8 @@ No HTB subscription. No TryHackMe premium. No excuses.
 ```bash
 # Step 1: Star ⭐ and Fork 🍴 this repository
 
-# Step 2: Copy the progress tracker template
-cp TRACKER_TEMPLATE.md MY_PROGRESS.md
+# Step 2: clone the repository
+Use the machines.md file as reference
 
 # Step 3: Pick your first machine (start here 👇)
 #   VulnHub → Kioptrix Level 1  (the classic beginner box)
@@ -91,6 +91,7 @@ cp TRACKER_TEMPLATE.md MY_PROGRESS.md
 # Step 4: Hack it. Root it. Document it.
 
 # Step 5: Open a PR or post your writeups in Discussions!
+write your writeups in /writeups folder
 ```
 
 **Rules are simple:**
