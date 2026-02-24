@@ -214,18 +214,6 @@ Don't want to follow the monthly roadmap? Choose a skill path instead:
 | RevShells | [revshells.com](https://revshells.com) |
 | IPPSEC | [ippsec.rocks](https://ippsec.rocks) |
 
----
-
-## 📋 Progress Tracker
-
-Use the [TRACKER_TEMPLATE.md](./TRACKER_TEMPLATE.md) to log your progress. Share it in [Discussions](../../discussions)!
-
-```
-[ ] Kioptrix: Level 1      | Easy   | VulnHub  | Date: _____ | Notes: _____
-[ ] Trust                  | V.Easy | DockerLabs| Date: _____ | Notes: _____
-[ ] DVWA                   | Easy   | GitHub   | Date: _____ | Notes: _____
-...
-```
 
 ---
 
